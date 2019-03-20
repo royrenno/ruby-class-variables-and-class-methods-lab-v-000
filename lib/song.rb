@@ -46,6 +46,3 @@ end
    genre_count
  end
  end
-
-
-  
